@@ -16,10 +16,11 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by:Manoj Guna Sundar Tella 
 #RegisterNumber:21003796
-```
+
 import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 ar=np.linalg.inv(a)
